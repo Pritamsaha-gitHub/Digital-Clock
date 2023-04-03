@@ -4,8 +4,8 @@
     align-items: center;
     justify-items: center;
     position: relative;
-    top: 150px;
-    right: 120px;
+    top: 23vh;
+    right: 8vw;
     gap: 10px;
     background-color: rgb(180, 162, 31);
     padding: 100px;
@@ -27,8 +27,8 @@ span{
     background-color: aqua;
     color: blue;
     position: relative;
-    left: 280px;
-    top: 70px;
+    left: 20vw;
+    top: 12vh;
     z-index: 1;
 }
 
